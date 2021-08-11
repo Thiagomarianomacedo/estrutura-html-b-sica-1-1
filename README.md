@@ -1,2 +1,2 @@
-# estrutura-html-b-sica-1-1
+# estrutura-html-basica-1-1
 Exercício 1
